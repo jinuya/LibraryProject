@@ -2,7 +2,7 @@
 <%@ include file="../menu.jsp" %>
 	<h2>회원 가입 화면</h2>
 	
-	    <form action="/register" method="post">
+	    <form action="/LibraryProject/register" method="post">
         <table width="500px" border="1" align="center">
             <tr>
                 <td>회원 ID</td>

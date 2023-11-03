@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 import dao.MemberDAO;
 import vo.MemberVO;
 
-@WebServlet("/QuitServlet")
+@WebServlet("/quit")
 public class QuitServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
