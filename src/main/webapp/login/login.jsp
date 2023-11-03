@@ -17,7 +17,7 @@
             <label><b>Password</b></label>
             <input type="password" name="pwd" placeholder="Enter Password">
             <input type="submit" value="Login">
-            <a href="/member/register.jsp">회원가입</a>
+            <a href="/LibraryProject/member/register.jsp">회원가입</a>
         </div>
     </form>
 <%@ include file="../footer.jsp" %>
